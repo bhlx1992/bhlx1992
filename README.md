@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  𝖧𝗂, 𝖨'𝗆 𝖡𝗋𝗎𝗇𝗈 𝖫𝗂𝗆𝖺, 𝖥𝗎𝗅𝗅𝖲𝗍𝖺𝖼𝗄 𝖩𝗎𝗇𝗂𝗈𝗋 Developer
+  Hi, I`m Bruno Lima, FullStack Junior Developer
 </p>
 
 <br>
