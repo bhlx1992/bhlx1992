@@ -16,8 +16,8 @@
 <div>
     <div align="center">
     <a href="https://www.linkedin.com/in/bhl-x1992" title="LinkedIn Profile"><img width="50" src="https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/linkedin-square-social-media-512.png"></a>
-    <a href="" title="LinkedIn Profile"><img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png"></a>
-    <a href="https://discord.gg/7EUKrWbHHn" title="LinkedIn Profile"><img width="50" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png"></a>
+    <a href=" # " title="LinkedIn Profile"><img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png"></a>
+    <a href=" # " title="LinkedIn Profile"><img width="50" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png"></a>
     </div>
     
     
