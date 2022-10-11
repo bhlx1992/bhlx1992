@@ -1,6 +1,11 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(+Bruno+Lima+);{(+FullStack__Developer+)}&center=true&size=20">
+  </a>
+</h1>
 
 
-<br>
+
 
 <p align="center">
   Hi, I`m Bruno Lima, FullStack Junior Developer
@@ -81,9 +86,4 @@
 
 <hr>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=<p>Bruno Lima<p>;{FullStack__Developer}&center=true&size=20">
-  </a>
-</h1>
 
