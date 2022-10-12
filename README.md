@@ -3,65 +3,42 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(+Bruno+Lima+);{(+FullStack__Developer+)}&center=true&size=20">
   </a>
 </h1>
-
-
-
-
 <p align="center">
   Hi, I`m Bruno Lima, FullStack Junior Developer
 </p>
-
 <br>
-
 <div>
     <div align="center">
-    <a href="https://www.linkedin.com/in/bhl-x1992" title="LinkedIn Profile"><img width="50" src="https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/linkedin-square-social-media-512.png"></a>
-    <a href=" # " title="LinkedIn Profile"><img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png"></a>
-    <a href=" # " title="LinkedIn Profile"><img width="50" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png"></a>
-    </div>
-    
-    
+      <a href="https://www.linkedin.com/in/bhl-x1992" title="LinkedIn Profile"><img width="50" src="https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/linkedin-square-social-media-512.png"></a>
+      <a href=" # " title="LinkedIn Profile"><img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png"></a>
+      <a href=" # " title="LinkedIn Profile"><img width="50" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png"></a>
+    </div>   
 </div>
-
 <br>
 
-
 <h2 align="center">· 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 | 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 | 𝖳𝗈𝗈𝗅𝗌 ·</h2>
-
 <br>
 
 <div align="center"> 
-
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width="40" height="40"/>  
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="40" height="40"/>      
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="40" height="40"/>   
-<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" width="40" height="40"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40"/>  
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40" height="40"/> 
-<img src="https://cdn0.iconfinder.com/data/icons/programming-development-2/32/markdown-512.png" width="40" height="40"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="40" height="40"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-512.png" width="40" height="40"/>
-<img src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-512.png" width="40" height="40"/>
-<img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>   
-<img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Visual_Studio_2012.png" width="40" height="40"/>
-<img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Eclipse.png" width="40" height="40"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png" width="40" height="40"/>
-
-  
- 
-
-
-
-
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width="40" height="40"/>  
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width="40" height="40"/>      
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="40" height="40"/>   
+  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40"/>  
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40" height="45"/> 
+  <img src="https://cdn0.iconfinder.com/data/icons/programming-development-2/32/markdown-512.png" width="40" height="40"/> 
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width="40" height="40"/> 
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-512.png" width="40" height="40"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-512.png" width="40" height="40"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>   
+  <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Visual_Studio_2012.png" width="40" height="40"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Eclipse.png" width="40" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png" width="40" height="40"/>
 </div>
-
-<br>
-<hr>
-
-
-
-<br>
+  <br>
+    <hr>
+      <br>
 
 <p align=center>
   <div align=center>
@@ -82,8 +59,48 @@
   <br>
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=bhlx1992&theme=react&bg_color=011627&hide_border=true"/>
 </p>
-
-
 <hr>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█     ▄▄▄▄▄▄▄
+    ▓░░░░░▀░░░░▀▄░░░░░▓     █▄▄▄▄▄█
+    ▓░░▀▀bruno lima░░░▓     █▄▄░▄▄█
+    ▓░░░░░░░░▄▀░░░░░░░▓     █▄▄░▄▄█
+    ▓▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▓     █░███░█
+          ▄▄█ █▄▄           ███████-->
 
