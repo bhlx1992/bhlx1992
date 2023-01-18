@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(+Bruno+Lima+);{(+FullStack__Developer+)}&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Bruno+Lima)...;{(FullStack__Developer)}&center=true&size=25&color=B46DFFFF&duration=3000&pause=2000">
   </a>
 </h1>
 <p align="center">
-  Hi, I`m Bruno Lima, FullStack Junior Developer
+  Hi, I´m Bruno Lima, FullStack Junior Developer
 </p>
 <br>
 <div>
@@ -57,7 +57,7 @@
     </a>
   </div>
   <br>
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=bhlx1992&theme=react&bg_color=011627&hide_border=true"/>
+   <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=bhlx1992&theme=react&bg_color=011627&hide_border=true"/> -->
 </p>
 <hr>
 
