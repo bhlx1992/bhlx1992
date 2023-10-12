@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Bruno+Lima)...;{(FullStack__Developer)}&center=true&size=25&color=B46DFFFF&duration=3000&pause=2000">
   </a>
 </h1>
-<p align="center">
-  Hi, I´m Bruno Lima, FullStack Junior Developer
-</p>
+<h3 align="center">
+  Hi, I´m Bruno Lima, FullStack Developer
+</h3>
 <br>
 <div>
     <div align="center">
@@ -39,10 +39,11 @@
     <hr>
 <p align=center>
  
-<hr>
   <div align="center">
+    <img src="https://cdn0.iconfinder.com/data/icons/photography/512/e36-64.png" width="30" height="30"/>
   <img src="https://profile-counter.glitch.me/bhlx1992/count.svg?"  />
 </div>
+
 <br>
   <div align=center>
     <a href="https://github.com/bhlx1992/github-readme-stats">
@@ -53,15 +54,8 @@
     </a><br>
     <a href="https://github.com/bhlx1992/github-readme-stats" title="Go to Source">
       <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=bhlx1992&theme=nightowl&border=61dafb&hide_border=true" alt="lartweib"/>
-    </a> <hr>
-    <br>
-    <br>
+    </a> 
   </div>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
 <hr>
     <div id="header" align="center">
     <img src="https://media2.giphy.com/media/12W5Sg2koWYnwA/giphy.gif?cid=ecf05e47zjii8luf8cygdsmsafsw6rgw4kh328u8vwh618yc&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
