@@ -1,7 +1,9 @@
-<hr>
+<a href="" title=" ">
+<img alt="" width="100%"src="https://capsule-render.vercel.app/api?type=waving&color=60:B46DFFFF,99:51cf98&height=120&section=header&text=ProgRS&fontSize=0&animation=fadeIn"/>
+</a>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(Bruno+Lima)...;{(FullStack__Developer)}&center=true&size=25&color=B46DFFFF&duration=3000&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(BrunoLima)...;{(FullStack__Developer)}&center=true&size=25&color=B46DFFFF&duration=3000&pause=2000">
   </a>
 </h1>
 <h3 align="center">
@@ -15,7 +17,12 @@
       <a href="https://discordapp.com/users/650472213694251008" title="Discord Profile"><img width="50" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png"></a>
     </div>   
 </div>
-
+      <div align="center">
+          <a href="#none">
+            <img alt="Snake" title="Snake commits"src="https://github.com/QravaTTacker/QravaTTacker/blob/output/github-contribution-grid-snake-dark.svg"/>
+          </a>
+      </div>      
+</div>
 <h2 align="center">· 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾𝗌 | 𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 | 𝖳𝗈𝗈𝗅𝗌 ·</h2>
 <br>
 
@@ -59,10 +66,12 @@
 <hr>
     <div id="header" align="center">
     <img src="https://media2.giphy.com/media/12W5Sg2koWYnwA/giphy.gif?cid=ecf05e47zjii8luf8cygdsmsafsw6rgw4kh328u8vwh618yc&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
-    <img src="https://media3.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif?cid=ecf05e47kcnys1a2p82gppsh9kmc6aengkygjd7rfn18avji&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="150"/>
     <img src="https://media4.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e47ojigm36wkaah0ljrrj1lnoqcpdcgiazg31lge3my&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="150"/>
+    <img src="https://media3.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif?cid=ecf05e47kcnys1a2p82gppsh9kmc6aengkygjd7rfn18avji&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="150"/>
     </div>
-<hr>
+     <a href="" title=" ">
+          <img alt="Capsule Render" width="100%"src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:B46DFFFF,100:51cf98&height=120&section=footer&animation=fadeIn"/>
+      </a>
 
 
 
