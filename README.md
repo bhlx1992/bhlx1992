@@ -1,5 +1,5 @@
 <a href="" title=" ">
-<img alt="" width="100%"src="https://capsule-render.vercel.app/api?type=waving&color=60:B46DFFFF,99:51cf98&height=120&section=header&text=ProgRS&fontSize=0&animation=fadeIn"/>
+<img alt="" width="100%"src="https://capsule-render.vercel.app/api?type=waving&color=40:d558f6,80:0dd0f9&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
 </a>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -64,13 +64,13 @@
     </a> 
   </div>
 <hr>
-    <div id="header" align="center">
+    <div id="" align="center">
     <img src="https://media2.giphy.com/media/12W5Sg2koWYnwA/giphy.gif?cid=ecf05e47zjii8luf8cygdsmsafsw6rgw4kh328u8vwh618yc&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
     <img src="https://media4.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e47ojigm36wkaah0ljrrj1lnoqcpdcgiazg31lge3my&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="150"/>
     <img src="https://media3.giphy.com/media/3oEjHWbXcpeKhTktXi/giphy.gif?cid=ecf05e47kcnys1a2p82gppsh9kmc6aengkygjd7rfn18avji&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="150"/>
     </div>
      <a href="" title=" ">
-          <img alt="Capsule Render" width="100%"src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:B46DFFFF,100:51cf98&height=120&section=footer&animation=fadeIn"/>
+          <img alt="Capsule Render" width="100%"src="https://capsule-render.vercel.app/api?type=waving&fontColor=0dd0f9&color=40:0dd0f9,70:d558f6&height=120&section=footer&animation=fadeIn"/>
       </a>
 
 
